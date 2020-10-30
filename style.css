@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+body { background-color: white; font-family: 'Roboto', sans-serif; text-align: center; }
+img.logo { width: 300pt; height: 300pt }
+img.store { width: 300pt; display: inline-block }
+p { text-align: justify; font-size: 14pt}
+
+div.content { max-width: 600pt; margin: 0 auto 0 auto }
